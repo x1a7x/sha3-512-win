@@ -78,10 +78,10 @@ This application is built for **Windows** using the `native-windows-gui` crate, 
 3. Click **"Generate Hash"** to compute the SHA3-512 hash. The hash will appear in the output box.
 4. If you want to clear the output, click the **"Clear"** button.
 
-### Screenshot
 
 
-![z1](https://github.com/user-attachments/assets/332f7d5a-7c10-4aff-ba86-862376aa67fe)
+
+
 
 
 ## Code Overview
